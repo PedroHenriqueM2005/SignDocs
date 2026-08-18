@@ -19,49 +19,70 @@ aplicativo desktop em Python + PySide6, com suporte a PDF, DOCX, XLSX, PPTX, TXT
 Pré-requisitos
 
 - Python **3.10 ou superior**
+- 
 - Git (para clonar o repositório)
 
 ### Passo a passo
 
 # Clone o repositório
+
 git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+
 cd document_viewer
 
 # Crie um ambiente virtual
+
 python -m venv venv
 
 # Ative o ambiente virtual
+
 # Windows:
+
 venv\Scripts\activate
 
 # Linux/macOS:
+
 source venv/bin/activate
 
 # Instale as dependências
+
 pip install -r requirements.txt
 
 O projeto usa pytest para testes automatizados.
 
 # Execute todos os testes
+
 python -m pytest -v
 
 # Execute um arquivo de teste específico
+
 python -m pytest tests/test_document_factory.py -v
 
 # Execute com relatório de cobertura (requer pytest-cov)
+
 pip install pytest-cov
+
 python -m pytest --cov=. --cov-report=term-missing
+
 
 ## TEC. usadas
 
 Python 3.10+ — linguagem principal
+
 PySide6 — interface gráfica (Qt para Python)
+
 PyMuPDF (fitz) — renderização de PDFs
 
 ## Autor Pedro Henrique Martins
+
 Desenvolvido como projeto de estudo/portfólio.
+
 python-docx — leitura de arquivos Word
+
 openpyxl — leitura de planilhas Excel
+
 python-pptx — leitura de apresentações PowerPoint
+
 SQLite — persistência do histórico de arquivos recentes
+
 pytest — testes automatizados
