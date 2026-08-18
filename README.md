@@ -24,12 +24,6 @@ Pré-requisitos
 
 ### Passo a passo
 
-Clone o repositório
-
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
-
-cd document_viewer
-
 # Crie um ambiente virtual
 
 python -m venv venv
