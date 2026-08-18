@@ -1,15 +1,32 @@
+
+---
+
+## 6️⃣ `.gitignore`
+
+```gitignore
+# Ambiente virtual
 venv/
 env/
 .venv/
+
+# Cache do Python
 __pycache__/
 *.pyc
 *.pyo
+
+# Banco de dados local (não deve ir para o repositório)
 data/
 *.db
+
+# Configurações de IDE
 .vscode/
 .idea/
+
+# Testes / cobertura
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Sistema operacional
 .DS_Store
 Thumbs.db
