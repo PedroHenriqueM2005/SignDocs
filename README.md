@@ -23,20 +23,21 @@ Pré-requisitos
 
 ### Passo a passo
 
-# 1. Clone o repositório
+# Clone o repositório
 git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
 cd document_viewer
 
-# 2. Crie um ambiente virtual
+# Crie um ambiente virtual
 python -m venv venv
 
-# 3. Ative o ambiente virtual
+# Ative o ambiente virtual
 # Windows:
 venv\Scripts\activate
+
 # Linux/macOS:
 source venv/bin/activate
 
-# 4. Instale as dependências
+# Instale as dependências
 pip install -r requirements.txt
 
 O projeto usa pytest para testes automatizados.
