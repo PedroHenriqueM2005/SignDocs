@@ -19,8 +19,7 @@ aplicativo desktop em Python + PySide6, com suporte a PDF, DOCX, XLSX, PPTX, TXT
 Pré-requisitos
 
 - Python **3.10 ou superior**
-- 
-- Git (para clonar o repositório)
+
 
 ### Passo a passo
 
