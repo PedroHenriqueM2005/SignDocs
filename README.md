@@ -1,6 +1,42 @@
 # SignDocs - Visualizador Universal de Documentos
 aplicativo desktop em Python + PySide6, com suporte a PDF, DOCX, XLSX, PPTX, TXT e imagens (JPG/PNG)
 
+<div align="center">
+
+<img src="https://via.placeholder.com/1200x400/1a1a2e/eaeaea?text=SignDocs" alt="Capa do Projeto SignDocs" width="100%">
+
+#  SignDocs
+
+### Assinatura e gestão de documentos digitais de forma simples e segura.
+
+<p>
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status">
+    <img src="https://img.shields.io/badge/license-MIT-blue" alt="Licença">
+    <img src="https://img.shields.io/github/last-commit/PedroHenriqueM2005/SignDocs" alt="Last Commit">
+</p>
+
+</div>
+
+---
+
+## Sobre o Projeto
+
+O **SignDocs** é uma solução desenvolvida para facilitar o processo de assinatura e validação de documentos digitais, eliminando a burocracia do papel e trazendo agilidade e segurança para o fluxo de aprovação de arquivos.
+
+O objetivo principal é oferecer uma plataforma intuitiva onde usuários possam enviar, assinar e gerenciar documentos de forma centralizada.
+
+##  Funcionalidades
+
+-  Upload de documentos em formato PDF
+-  Assinatura digital de arquivos
+-  Gerenciamento de status (Pendente, Assinado, Rejeitado)
+- Histórico de alterações
+
+
+##  Estrutura do Projeto
+
+
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PySide6](https://img.shields.io/badge/UI-PySide6-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
