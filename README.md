@@ -5,7 +5,11 @@ aplicativo desktop em Python + PySide6, com suporte a PDF, DOCX, XLSX, PPTX, TXT
 
 <img src="https://via.placeholder.com/1200x400/1a1a2e/eaeaea?text=SignDocs" alt="Capa do Projeto SignDocs" width="100%">
 
-#  SignDocs
+<div align="center">
+
+<img src="https://via.placeholder.com/1200x400/1a1a2e/eaeaea?text=SignDocs" alt="Capa do Projeto SignDocs" width="100%">
+
+# 📝 SignDocs
 
 ### Assinatura e gestão de documentos digitais de forma simples e segura.
 
@@ -18,6 +22,35 @@ aplicativo desktop em Python + PySide6, com suporte a PDF, DOCX, XLSX, PPTX, TXT
 </div>
 
 ---
+
+## 🚀 Sobre o Projeto
+
+O **SignDocs** é uma solução desenvolvida para facilitar o processo de assinatura e validação de documentos digitais, eliminando a burocracia do papel e trazendo agilidade e segurança para o fluxo de aprovação de arquivos.
+
+O objetivo principal é oferecer uma plataforma intuitiva onde usuários possam enviar, assinar e gerenciar documentos de forma centralizada.
+
+## ✨ Funcionalidades
+
+-  Upload de documentos em formato PDF
+-  Assinatura digital de arquivos
+-  Gerenciamento de status (Pendente, Assinado, Rejeitado)
+-  Histórico
+
+## 🛠️ Tecnologias Utilizadas
+
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+| Tecnologia | Descrição |
+| :--- | :--- |
+| **[Linguagem Principal]** | Backend da aplicação |
+| **[Framework]** | Estruturação da API/Frontend |
+| **[Banco de Dados]** | Armazenamento de dados |
+| **Git & GitHub** | Versionamento de código |
+
+## 📂 Estrutura do Projeto
+
+
+
 
 ## Sobre o Projeto
 
